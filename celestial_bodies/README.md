@@ -1,8 +1,6 @@
-# FreeCodeCamp Relational Database Certification
+## Project 1: Celestial Bodies Database
 
-### Project 1: Celestial Bodies Database
-
-#### Instructions
+### Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering 
 ```
 psql --username=freecodecamp --dbname=postgres 
@@ -13,7 +11,7 @@ Don't forget to connect to your database after you create it 😄
 
 Here's some ideas for other column and table names: description, has_life, is_spherical, age_in_millions_of_years, planet_types, galaxy_types, distance_from_earth.
 
-#### Notes:
+### Notes:
 If you leave your virtual machine, your database may not be saved. You can make a dump of it by entering 
 ``` 
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql 
