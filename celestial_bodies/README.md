@@ -1,4 +1,4 @@
-## Project 1: Celestial Bodies Database
+## Celestial Bodies Database
 
 ### Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering 
